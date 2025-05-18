@@ -8,6 +8,6 @@ This project detects plant diseases from leaf images using a Convolutional Neura
 
 🏋️‍♀️ Trained the model to classify plant diseases.
 
-🧪 Evaluated model performance by comparing test and validation data accuracy.
+🧪 Evaluated model performance(test/validation accuracy).
 
 🔮 Implemented a function to predict diseases from new images.
